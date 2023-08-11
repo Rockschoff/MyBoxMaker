@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.canvas {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  display: flex;
+  position: relative;
+}
+
+.new2 {
+  border: 1px solid black;
+  background-color: "light-grey";
+  position: absolute;
+}
+
+.contextmenu {
+  margin: auto;
+  border: 1px solid black;
+  width: 200px;
+  height: auto;
+}
+
+.contextmenu-ele {
+  border: 1px solid grey;
+}
